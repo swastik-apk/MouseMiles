@@ -114,5 +114,3 @@ This application tracks user mouse interactions.
 [Specify your chosen license here, e.g., MIT License. Include a LICENSE file in your repository.]
 
 ---
-
-*This README is based on the concepts outlined in the 'Creating a Mouse Metrics Application for Windows' document.*
